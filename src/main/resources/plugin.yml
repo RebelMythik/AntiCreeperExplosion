@@ -1,0 +1,5 @@
+name: AntiCreeperExplosion
+version: '${project.version}'
+main: rebelmythik.anticreeperexplosion.AntiCreeperExplosion
+api-version: 1.19
+description: Prevents Creepers from breaking blocks
